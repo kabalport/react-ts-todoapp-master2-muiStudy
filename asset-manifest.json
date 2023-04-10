@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ts-todoapp-master2-muiStudy/static/css/main.216bda76.chunk.css",
+    "main.js": "/react-ts-todoapp-master2-muiStudy/static/js/main.cf6b589b.chunk.js",
+    "main.js.map": "/react-ts-todoapp-master2-muiStudy/static/js/main.cf6b589b.chunk.js.map",
+    "runtime-main.js": "/react-ts-todoapp-master2-muiStudy/static/js/runtime-main.b5f4e31a.js",
+    "runtime-main.js.map": "/react-ts-todoapp-master2-muiStudy/static/js/runtime-main.b5f4e31a.js.map",
+    "static/js/2.b2221df2.chunk.js": "/react-ts-todoapp-master2-muiStudy/static/js/2.b2221df2.chunk.js",
+    "static/js/2.b2221df2.chunk.js.map": "/react-ts-todoapp-master2-muiStudy/static/js/2.b2221df2.chunk.js.map",
+    "static/js/3.4cd8a1fc.chunk.js": "/react-ts-todoapp-master2-muiStudy/static/js/3.4cd8a1fc.chunk.js",
+    "static/js/3.4cd8a1fc.chunk.js.map": "/react-ts-todoapp-master2-muiStudy/static/js/3.4cd8a1fc.chunk.js.map",
+    "index.html": "/react-ts-todoapp-master2-muiStudy/index.html",
+    "static/css/main.216bda76.chunk.css.map": "/react-ts-todoapp-master2-muiStudy/static/css/main.216bda76.chunk.css.map",
+    "static/js/2.b2221df2.chunk.js.LICENSE.txt": "/react-ts-todoapp-master2-muiStudy/static/js/2.b2221df2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5f4e31a.js",
+    "static/js/2.b2221df2.chunk.js",
+    "static/css/main.216bda76.chunk.css",
+    "static/js/main.cf6b589b.chunk.js"
+  ]
+}
